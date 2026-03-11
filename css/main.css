@@ -9,9 +9,12 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(186, 107, 107);
     padding-left: 1rem;
     width: 100vh;
+    height: 100lvh;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
@@ -23,6 +26,7 @@ a:hover {
 }
 
 header {
+    background-color: antiquewhite;
     width: 100vh;
     display: flex;
     gap: 1rem;
@@ -40,4 +44,13 @@ header {
 
 b {
     font-weight: 600;
+}
+
+.main {
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vh;
+    height: max-content;
 }
