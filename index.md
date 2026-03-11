@@ -1,4 +1,10 @@
-# test test
+#### Navigation
 
+- [home]()
+- [about](./about.md)
+- [contact](./contact.md)
+- [portfolio](./portfolio.md)
 
-yoo makrdown
+#### Home
+
+this is a homepage
